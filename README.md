@@ -1,0 +1,2 @@
+# Nginx-FastCGI-WebServer
+基于Nginx作为反向代理和轻量级web服务器，FastCGI作为中间包裹，分布式解决方案采用FastDFS框架
