@@ -1,0 +1,2 @@
+192.168.189.1 - - [21/Feb/2023:13:31:37 +0800] "GET / HTTP/1.1" 200 612 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42"
+192.168.189.1 - - [21/Feb/2023:13:31:37 +0800] "GET /favicon.ico HTTP/1.1" 404 571 "http://192.168.189.128/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42"
